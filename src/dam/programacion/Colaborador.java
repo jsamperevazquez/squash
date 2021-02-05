@@ -7,4 +7,7 @@ public class Colaborador {
     public void segundoMetodo(){
         System.out.println("Segundo metodo de la clase colaborador");
     }
+    public void tercerMetodo(){
+        System.out.println("Tercer metodo de la clase colaborador");
+    }
 }
